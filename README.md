@@ -196,7 +196,7 @@ A：只用你提供的、带官方链接的政策原文；可以先用 opc-polic
 <a id="zh-author"></a>
 ### 作者
 
-**华夏路菜菜子**：博主，[business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) 作者。
+**华夏路菜菜子**：前大厂 AI 产品增长，现 AI 创业者，「一人公司工具包」作者。
 
 - GitHub：[@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
 
@@ -391,7 +391,7 @@ A: Only official policy texts you provide, e.g. found via opc-policy-navigator.
 <a id="en-author"></a>
 ### Author
 
-**华夏路菜菜子 (huaxialucaicaizi)**: blogger and author of [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill).
+**华夏路菜菜子 (huaxialucaicaizi)**: former AI product growth lead at major Chinese tech companies, now an AI founder; author of the One-Person Company Toolkit.
 
 - GitHub: [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
 
