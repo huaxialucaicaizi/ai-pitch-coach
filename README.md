@@ -159,14 +159,14 @@ scripts/validate.py
 
 | 步骤 | 仓库 |
 |---|---|
-| 1. AI 产品 MVP 验证 | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
-| 2. 商业计划书 | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. 政策与补贴 | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
-| 4. 路演教练 | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)（本仓库） |
-| 5. 增长获客 | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
-| 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
-| 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
-| AI 创业 Skill 包（全套 7 步） | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
+| 1. AI 产品 MVP 验证 | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) **AI MVP Validation · AI 产品 MVP 验证** |
+| 2. 商业计划书 | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) **Business Plan Skill · 商业计划书** |
+| 3. 政策与补贴 | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) **OPC Policy Navigator · 一人公司政策导航** |
+| 4. 路演教练 | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) **AI Pitch Coach · 路演教练**（本仓库） |
+| 5. 增长获客 | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) **OPC Growth Playbook · 一人公司增长获客** |
+| 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) **OPC Pricing & Sales · 定价与成交** |
+| 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) **OPC Registration & Compliance · 一人公司注册与合规** |
+| AI 创业 Skill 包（全套 7 步） | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) **AI Startup Skills · AI 创业 Skill 包** |
 
 <a id="zh-faq"></a>
 ### 常见问题
@@ -354,14 +354,14 @@ scripts/validate.py
 
 | Step | Repository |
 |---|---|
-| 1. AI MVP Validation | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
-| 2. Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. Policy & Subsidies | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
-| 4. Roadshow Coach | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) (this repo) |
-| 5. Growth | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
-| 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
-| 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
-| AI Startup Skills (all 7 steps) | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
+| 1. AI MVP Validation | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) **AI MVP Validation** |
+| 2. Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) **Business Plan Skill** |
+| 3. Policy & Subsidies | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) **OPC Policy Navigator** |
+| 4. Roadshow Coach | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) **AI Pitch Coach** (this repo) |
+| 5. Growth | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) **OPC Growth Playbook** |
+| 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) **OPC Pricing & Sales** |
+| 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) **OPC Registration & Compliance** |
+| AI Startup Skills (all 7 steps) | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) **AI Startup Skills** |
 
 <a id="en-faq"></a>
 ### FAQ
