@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+- README「一人公司工具包」表格：每个仓库链接后附加粗的英文名 · 中文名，命名与 ai-startup-skills 合集一致
+- README "One-Person Company Toolkit" table: each repository link now shows its bold English name, matching the ai-startup-skills bundle
+
 ## [1.0.0] - 2026-10-22
 
 ### Added
