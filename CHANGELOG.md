@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- SKILL.md 新增「可选衔接」：有第 1 / 2 / 3 步产出时，分别用于验证进度、讲稿材料和「诉求与落地」；硬性规则里的政策查询补上 opc-policy-navigator 链接
+- SKILL.md: add optional companion-step section (steps 1–3 feed validation progress, script materials, and the ask/commitment close); link opc-policy-navigator in the policy rule
 - README「一人公司工具包」表格：每个仓库链接后附加粗的英文名 · 中文名，命名与 ai-startup-skills 合集一致
 - README "One-Person Company Toolkit" table: each repository link now shows its bold English name, matching the ai-startup-skills bundle
 - README「一人公司工具包」表格：去掉重复的仓库短名链接，改为直接用加粗名称作链接，与 opc-policy-navigator、ai-startup-skills 写法一致
