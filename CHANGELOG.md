@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- LICENSE / README：新增未经许可不得上架第三方 AI 产品、Skill 商店的条款；授权联系仍为 @huaxialucaicaizi
+- LICENSE / README: added a clause forbidding listing on third-party AI products or skill stores without prior author permission; contact remains @huaxialucaicaizi
 - 许可证由 MIT 改为非商业许可；转载或商用需联系 @huaxialucaicaizi
 - License changed from MIT to a non-commercial license; republication or commercial use requires contacting @huaxialucaicaizi
 - README「一人公司工具包」表格：每个仓库链接后附加粗的英文名 · 中文名，命名与 ai-startup-skills 合集一致
